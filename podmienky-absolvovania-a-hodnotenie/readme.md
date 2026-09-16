@@ -33,11 +33,11 @@ Bez odovzdania projektu v 1. fáze, ktorá je cvičiacim akceptovaná a spĺňa 
 
 ## Priebežný test
 
-Počas semestra bude priebežný test na cvičení. Za test je možné získať maximálne 9 bodov, pričom je nutné získať aspoň 3 body (bez potrebných 3 bodov študent nepokračuje ďalej v kurze). Predpokladaný termín: 7. týždeň semestra (môže sa termín operatívne zmeniť).
+Počas semestra bude priebežný test na cvičení. Za test je možné získať maximálne 9 bodov, pričom je nutné získať aspoň 4 body (bez potrebných 4 bodov študent nepokračuje ďalej v kurze). Predpokladaný termín: 7. týždeň semestra (môže sa termín operatívne zmeniť).
 
 ## Podmienky pripustenia ku skúške
 
 - priebežné odovzdanie (v daných termínoch) a vysvetlenie všetkých častí projektu (vlastnej práce študentov) v predpísanej kvalite (podľa požiadaviek vyučujúceho)
 - získanie **minimálne 29 bodov (zo 47 bodov)** v súčte za vypracovaný projekt
-- získanie aspoň 3 bodov (z 9 bodov) z priebežného testu
+- získanie aspoň 4 body (z 9 bodov) z priebežného testu
 - POZN.: zo skúškového testu nie je stanovené potrebné minimum bodov
